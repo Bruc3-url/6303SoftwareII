@@ -1,4 +1,4 @@
-public class ASCCIConverter extends Converter{
+public class ASCIIConverter extends Converter{
 
 
     public void makeline(){
