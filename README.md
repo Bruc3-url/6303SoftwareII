@@ -1,2 +1,2 @@
-# 6303SpftwareII
+# 6303SoftwareII
 Curso de Ing de Software
